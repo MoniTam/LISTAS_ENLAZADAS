@@ -7,7 +7,7 @@ package lista_enlazada;
 
 /**
  *
- * @author ESTEFANIA TAMAYkk
+ * @author ESTEFANIA TAMAY
  */
 public class LISTA {
        protected NODO inicio, fin;   // Punteros para donde esta el inicio y el fin
