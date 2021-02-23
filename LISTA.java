@@ -10,7 +10,7 @@ package lista_enlazada;
  * @author ESTEFANIA TAMAY
  */
 public class LISTA {
-       protected NODO inicio, fin;   // Punteros para donde esta el inicio y el fin
+       protected NODO inicio, fin;   
        public LISTA(){
         inicio = null;
         fin    = null;
