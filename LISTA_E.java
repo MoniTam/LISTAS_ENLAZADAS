@@ -30,6 +30,21 @@ public class LISTA_E {
         listaenlazada.mostrarListaEnlazada();
         listaenlazada.borrarDelInicio();
         listaenlazada.mostrarListaEnlazada();
+        
+        LISTA listaenlazada_2 = new LISTA();
+        listaenlazada_2.agregarAlInicio("20");
+        listaenlazada_2.agregarAlInicio("20");
+        listaenlazada_2.agregarAlInicio("20");
+        listaenlazada_2.agregarAlInicio("21");
+        listaenlazada_2.agregarAlInicio("21");
+        listaenlazada_2.agregarAlInicio("21");
+        listaenlazada_2.agregarAlInicio("22");
+        listaenlazada_2.agregarAlInicio("22");
+        listaenlazada_2.agregarAlInicio("22");
+        listaenlazada_2.agregarAlInicio("23");
+        listaenlazada_2.mostrarListaEnlazada();
+        listaenlazada_2.borrarDelInicio();
+        listaenlazada_2.mostrarListaEnlazada();
 
     }
     
